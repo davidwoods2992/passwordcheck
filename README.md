@@ -6,11 +6,12 @@ It's a simple class to check the word, especially for password.
 1. Security level:
 
   1). Must have at least one upper case letter and Must have at least one number
-	2). Must be at least 6 characters
-	3). Cannot be one of the specific words
-	 			111111
-	 			password
-	 			123456
+  2). Must be at least 6 characters
+  3). Cannot be one of the specific words
+	 111111
+	 password
+	 123456
+    
     
 2. Spec:
 
