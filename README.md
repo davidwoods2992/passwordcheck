@@ -18,8 +18,8 @@ It's a simple class to check the word, especially for password.
  		<li>  Must be at least 6 characters. </li>
  		<li>  Cannot be one of the specific words.</li>
 
-	 		111111
-			password
+	 		111111, 
+			password,
 	 		123456
   
  	</ol>
