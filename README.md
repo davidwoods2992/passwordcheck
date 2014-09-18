@@ -10,7 +10,7 @@ It's a simple class to check the word, especially for password.
 
 <ol type="1">
 
-<li>1. Security level:</li>
+<li> Security level:</li>
 
 <ol type="a">
 
@@ -23,7 +23,7 @@ It's a simple class to check the word, especially for password.
 	 123456
     
     
-<li> 2. Spec: </li>
+<li> Spec: </li>
 
 <ul style="list-style-type:none">
 
@@ -38,7 +38,7 @@ It's a simple class to check the word, especially for password.
 </ul>
   
   
-<li> 3. About Usage: </li>
+<li> About Usage: </li>
 
 <p>
     String p = "word"; <br>
