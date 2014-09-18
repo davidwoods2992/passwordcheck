@@ -25,20 +25,20 @@ It's a simple class to check the word, especially for password.
     
 <li> Spec: </li>
 
-<ul style="list-style-type:none">
+<ul>
 
-  <li> 1). checkCombinedPassword(String) // Check the word with all security levels. </li>
+  <li>  checkCombinedPassword(String) // Check the word with all security levels. </li>
 
-  <li> 2). checkCombinedPassword(String, int) // Check the word with a specific security level. </li>
+  <li>  checkCombinedPassword(String, int) // Check the word with a specific security level. </li>
   
-  <li> 3). checkCombinedPassword(String, int, String[]) // Check the word with a specific level and custom sensitive words.</li> 
+  <li>  checkCombinedPassword(String, int, String[]) // Check the word with a specific level and custom sensitive words.</li> 
   
-  <li> 4). checkCombinedPassword(String, int, List<String>) // Check the word with a specific level and custom sensitive words. </li>
+  <li>  checkCombinedPassword(String, int, List<String>) // Check the word with a specific level and custom sensitive words. </li>
 
 </ul>
   
   
-<li> About Usage: </li>
+<li> About Usage: 
 
 <p>
     String p = "word"; <br>
@@ -51,6 +51,8 @@ It's a simple class to check the word, especially for password.
     } <br>
     
 </p>
+
+</li>
 
 <p>
 Try it on your hand!
