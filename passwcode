@@ -20,7 +20,7 @@ public class Password {
 		}
 		
 		public PasswordNotCombinedException(String hint) {
-			super();
+			super(hint);
 			this.hint = hint;
 		}
 		
