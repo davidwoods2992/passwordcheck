@@ -29,18 +29,18 @@ It's a simple class to check the word, especially for password.
 
 <ul>
 
-  <li>  checkCombinedPassword(String) // Check the word with all security levels. </li>
+  <li>  checkCombinedPassword(String) -- Check the word with all security levels. </li>
 
-  <li>  checkCombinedPassword(String, int) // Check the word with a specific security level. </li>
+  <li>  checkCombinedPassword(String, int) --  Check the word with a specific security level. </li>
   
-  <li>  checkCombinedPassword(String, int, String[]) // Check the word with a specific level and custom sensitive words.</li> 
+  <li>  checkCombinedPassword(String, int, String[]) -- Check the word with a specific level and custom sensitive words.</li> 
   
-  <li>  checkCombinedPassword(String, int, List<String>) // Check the word with a specific level and custom sensitive words. </li>
+  <li>  checkCombinedPassword(String, int, List<String>) -- Check the word with a specific level and custom sensitive words. </li>
 
 </ul>
   
   
-<li> 3. About Usage:  </li>
+<li>   3. About Usage:  </li>
 
 <p>
     String p = "word"; <br>
