@@ -2,12 +2,15 @@ Password Checking
 ============================
 
 <html>
+
+<body>
 <h4>
 It's a simple class to check the word, especially for password. 
 </h4>
 
+<ol type="1">
 
-1. Security level:
+<li>1. Security level:</li>
 
 <ol type="a">
 
@@ -20,7 +23,7 @@ It's a simple class to check the word, especially for password.
 	 123456
     
     
-2. Spec:
+<li> 2. Spec: </li>
 
 <ul style="list-style-type:none">
 
@@ -35,7 +38,7 @@ It's a simple class to check the word, especially for password.
 </ul>
   
   
-3. About Usage:
+<li> 3. About Usage: </li>
 
 <p>
     String p = "word"; <br>
@@ -54,5 +57,7 @@ Try it on your hand!
 
 Thanks!
 </p>
+
+</body>
 
 </html>
