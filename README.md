@@ -16,11 +16,12 @@ It's a simple class to check the word, especially for password.
 
  		<li>  Must have at least one upper case letter and Must have at least one number. </li>
  		<li>  Must be at least 6 characters. </li>
- 		<li>  Cannot be one of the specific words.</li>
+ 		<li>  Cannot be one of the specific words. like: 
 
 	 		111111, 
 			password,
 	 		123456
+	 	</li>
   
  	</ol>
  </li>   
@@ -47,9 +48,8 @@ It's a simple class to check the word, especially for password.
    
    <br> String p = "word"; <br>
    <br> try {<br>
-   <br>      Password pp = new Password(); <br>
-   <br>       pp.checkCombinedPassword(p);<br>
-
+   <br>       &nbsp;&nbsp; Password pp = new Password(); <br>
+   <br>       &nbsp; &nbsp; pp.checkCombinedPassword(p);<br>
    <br> } catch (Exception e) { <br>
    <br>   //Put your code to handle the exception when you calling it. <br>
    <br> } <br>
