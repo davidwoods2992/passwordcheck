@@ -40,17 +40,18 @@ It's a simple class to check the word, especially for password.
 </ul>
   
   
-<li>   3. About Usage:  </li>
+<li> About Usage:  </li>
 
 <p>
-    String p = "word"; <br>
-    try {<br>
-          Password pp = new Password(); <br>
-          pp.checkCombinedPassword(p);<br>
+   
+   <br> String p = "word"; <br>
+   <br> try {<br>
+   <br>      Password pp = new Password(); <br>
+   <br>       pp.checkCombinedPassword(p);<br>
 
-    } catch (Exception e) { <br>
-      //Put your code to handle the exception when you calling it. <br>
-    } <br>
+   <br> } catch (Exception e) { <br>
+   <br>   //Put your code to handle the exception when you calling it. <br>
+   <br> } <br>
     
 </p>
 
