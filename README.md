@@ -10,37 +10,38 @@ It's a simple class to check the word, especially for password.
 
 <ol type="1">
 
-<li> Security level:</li>
+<li> Security level:
 
-<ol type="a">
+	<ol type="a">
 
- <li>  Must have at least one upper case letter and Must have at least one number. </li>
- <li>  Must be at least 6 characters. </li>
- <li>  Cannot be one of the specific words.</li>
+ 		<li>  Must have at least one upper case letter and Must have at least one number. </li>
+ 		<li>  Must be at least 6 characters. </li>
+ 		<li>  Cannot be one of the specific words.</li>
 
-	 111111
-	 password
-	 123456
+	 		111111
+			password
+	 		123456
   
- </ol>
+ 	</ol>
+ </li>   
     
-    
-<li> Spec: </li>
+<li> Spec: 
 
-<ul>
+	<ul>
 
-  <li>  checkCombinedPassword(String) -- Check the word with all security levels. </li>
+  		<li>  checkCombinedPassword(String) -- Check the word with all security levels. </li>
 
-  <li>  checkCombinedPassword(String, int) --  Check the word with a specific security level. </li>
+  		<li>  checkCombinedPassword(String, int) --  Check the word with a specific security level. </li>
   
-  <li>  checkCombinedPassword(String, int, String[]) -- Check the word with a specific level and custom sensitive words.</li> 
+  		<li>  checkCombinedPassword(String, int, String[]) -- Check the word with a specific level and custom sensitive words.</li> 
   
-  <li>  checkCombinedPassword(String, int, List<String>) -- Check the word with a specific level and custom sensitive words. </li>
+  		<li>  checkCombinedPassword(String, int, List<String>) -- Check the word with a specific level and custom sensitive words. </li>
 
-</ul>
+	</ul>
+
+</li>
   
-  
-<li> About Usage:  </li>
+<li> About Usage:  
 
 <p>
    
@@ -54,6 +55,9 @@ It's a simple class to check the word, especially for password.
    <br> } <br>
     
 </p>
+
+</li>
+
 </ol>
 
 
