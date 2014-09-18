@@ -54,7 +54,7 @@ It's a simple class to check the word, especially for password.
    <br> } <br>
     
 </p>
-
+</ol>
 
 
 <p>
