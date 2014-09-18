@@ -40,7 +40,7 @@ It's a simple class to check the word, especially for password.
 </ul>
   
   
-<li> About Usage:  </li>
+<li> 3. About Usage:  </li>
 
 <p>
     String p = "word"; <br>
