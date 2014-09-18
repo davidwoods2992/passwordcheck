@@ -16,11 +16,13 @@ It's a simple class to check the word, especially for password.
 
  <li>  Must have at least one upper case letter and Must have at least one number. </li>
  <li>  Must be at least 6 characters. </li>
- <li>  Cannot be one of the specific words. </li>
-</ol>
+ <li>  Cannot be one of the specific words.</li>
+
 	 111111
 	 password
 	 123456
+  
+ </ol>
     
     
 <li> Spec: </li>
@@ -38,7 +40,7 @@ It's a simple class to check the word, especially for password.
 </ul>
   
   
-<li> About Usage: 
+<li> About Usage:  </li>
 
 <p>
     String p = "word"; <br>
@@ -52,7 +54,7 @@ It's a simple class to check the word, especially for password.
     
 </p>
 
-</li>
+
 
 <p>
 Try it on your hand!
